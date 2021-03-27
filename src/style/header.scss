@@ -1,0 +1,31 @@
+.app{
+    .header {
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        font-family: 'Merienda', cursive;
+    
+    
+        button{
+            width: 75px;
+            background-color: pink;
+            border-color: plum;
+            border-radius: 7px;
+            box-shadow: 3px 3px 15px 1px rgba(0,0,0,0.3);
+            font-family: 'Merienda', cursive;
+
+            &:focus {
+                outline: none;
+            }
+
+            &active {
+                border-style: outset;
+                transform: translate(3px,3px);
+                box-shadow: 2px 2px 13px 1px rgba(0,0,0,0.3);
+            }
+        }
+
+
+    }
+}
