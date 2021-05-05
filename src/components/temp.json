@@ -9,7 +9,7 @@
     },
     {
         "days_in_month": 28,
-        "days_in_previous_month": 28,
+        "days_in_previous_month": 31,
         "id": 2,
         "name": "February",
         "start_day": 1,
@@ -17,7 +17,7 @@
     },
     {
         "days_in_month": 31,
-        "days_in_previous_month": 31,
+        "days_in_previous_month": 28,
         "id": 3,
         "name": "March",
         "start_day": 1,
@@ -25,7 +25,7 @@
     },
     {
         "days_in_month": 30,
-        "days_in_previous_month": 30,
+        "days_in_previous_month": 31,
         "id": 4,
         "name": "April",
         "start_day": 4,
@@ -33,7 +33,7 @@
     },
     {
         "days_in_month": 31,
-        "days_in_previous_month": 31,
+        "days_in_previous_month": 30,
         "id": 5,
         "name": "May",
         "start_day": 6,
@@ -41,7 +41,7 @@
     },
     {
         "days_in_month": 30,
-        "days_in_previous_month": 30,
+        "days_in_previous_month": 31,
         "id": 6,
         "name": "June",
         "start_day": 2,
@@ -49,7 +49,7 @@
     },
     {
         "days_in_month": 31,
-        "days_in_previous_month": 31,
+        "days_in_previous_month": 30,
         "id": 7,
         "name": "July",
         "start_day": 4,
@@ -65,7 +65,7 @@
     },
     {
         "days_in_month": 30,
-        "days_in_previous_month": 30,
+        "days_in_previous_month": 31,
         "id": 9,
         "name": "September",
         "start_day": 3,
@@ -73,7 +73,7 @@
     },
     {
         "days_in_month": 31,
-        "days_in_previous_month": 31,
+        "days_in_previous_month": 30,
         "id": 10,
         "name": "October",
         "start_day": 5,
@@ -81,7 +81,7 @@
     },
     {
         "days_in_month": 30,
-        "days_in_previous_month": 30,
+        "days_in_previous_month": 31,
         "id": 11,
         "name": "November",
         "start_day": 1,
@@ -94,5 +94,45 @@
         "name": "December",
         "start_day": 3,
         "year": 2021
+    },
+    {
+        "days_in_month": 31,
+        "days_in_previous_month": 31,
+        "id": 13,
+        "name": "January",
+        "start_day": 6,
+        "year": 2022
+    },
+    {
+        "days_in_month": 28,
+        "days_in_previous_month": 31,
+        "id": 13,
+        "name": "February",
+        "start_day": 2,
+        "year": 2022
+    },
+    {
+        "days_in_month": 31,
+        "days_in_previous_month": 28,
+        "id": 14,
+        "name": "March",
+        "start_day": 2,
+        "year": 2022
+    },
+    {
+        "days_in_month": 30,
+        "days_in_previous_month": 31,
+        "id": 15,
+        "name": "April",
+        "start_day": 5,
+        "year": 2022
+    },
+    {
+        "days_in_month": 31,
+        "days_in_previous_month": 30,
+        "id": 16,
+        "name": "May",
+        "start_day": 0,
+        "year": 2022
     }
 ]
